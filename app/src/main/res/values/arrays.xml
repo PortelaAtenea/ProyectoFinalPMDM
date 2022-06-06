@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="planetas">
+        <item>Paris</item>
+        <item>New York</item>
+        <item>London</item>
+        <item>Pekin</item>
+        <item>Barcelona</item>
+        <item>Los Angeles</item>
+        <item>CD Mexico</item>
+        <item>Athens</item>
+    </string-array>
+
+
+</resources>

@@ -1,5 +1,6 @@
 R_DEF: Internal format may change without notice
 local
+array planetas
 color black
 color purple_200
 color purple_500
@@ -9,6 +10,12 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+id LLPortada
+id LlListCities
+id btnSelectCity
+id btnStartTravel
+id lvCities
+id tvCityBase
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round

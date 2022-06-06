@@ -63,6 +63,7 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array planetas
 attr SharedValue
 attr SharedValueId
 attr actionBarDivider
@@ -2518,6 +2519,8 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
+id LLPortada
+id LlListCities
 id META
 id NO_DEBUG
 id SHIFT
@@ -2611,6 +2614,8 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnSelectCity
+id btnStartTravel
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -2761,6 +2766,7 @@ id line3
 id linear
 id listMode
 id list_item
+id lvCities
 id masked
 id match_constraint
 id match_parent
@@ -2979,6 +2985,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvCityBase
 id unchecked
 id uniform
 id unlabeled
