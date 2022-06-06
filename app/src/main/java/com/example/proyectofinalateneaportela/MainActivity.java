@@ -46,7 +46,11 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     public void onClickbtn(View view) {
-        Toast.makeText(this, "bonton son funcionalidad", Toast.LENGTH_SHORT).show();
+        if(view.getId() == btnCalcular.getId()){
+            //Todo Intent implicito en el que se seleciona la ciduad de origen
+            Toast.makeText(this, "boton son funcionalidad", Toast.LENGTH_SHORT).show();
+        }
+
 
 
     }

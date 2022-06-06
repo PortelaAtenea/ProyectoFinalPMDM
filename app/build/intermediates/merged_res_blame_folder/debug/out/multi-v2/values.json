@@ -22,9 +22,11 @@
                 {
                     "source": "C:\\Users\\a20ateneapf\\AndroidStudioProjects\\Tema 9-Persistencia de datos\\ProyectoFinalPMDM\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "63",
+                        "endOffsets": "76"
                     },
                     "to": {
                         "startLines": "1607",
@@ -237,12 +239,9 @@
                 {
                     "source": "C:\\Users\\a20ateneapf\\AndroidStudioProjects\\Tema 9-Persistencia de datos\\ProyectoFinalPMDM\\app\\src\\main\\res\\values\\arrays.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "59",
-                        "endLines": "12",
-                        "endColumns": "19",
-                        "endOffsets": "353"
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
                     },
                     "to": {
                         "startLines": "2",
